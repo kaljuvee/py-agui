@@ -1,12 +1,12 @@
 [project]
 name = "py-agui"
-version = "0.1.1"
+version = "0.1.2"
 description = "Python Agentic UI - Real-time agentic chat interfaces with FastHTML, featuring 3-pane layout with settings, streaming chat, and thinking trace"
 readme = "README.md"
 license = "MIT"
 authors = [
-    { name = "Christoffer Bjorkskog", email = "christoffer.bjorkskog@novia.fi" },
-    { name = "Tarvo Kaljuvee" }
+    { name = "Julian Kaljuvee", email = "kaljuvee@gmail.com" },
+    { name = "Christoffer Bjorkskog", email = "christoffer.bjorkskog@novia.fi" }
 ]
 keywords = ["fasthtml", "agui", "pydantic-ai", "chat", "websocket", "agentic-ui", "streaming"]
 classifiers = [
