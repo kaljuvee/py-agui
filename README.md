@@ -4,7 +4,7 @@
 
 3-pane layout: **Settings** | **Streaming Chat** | **Thinking Trace** -- all pure Python, no JavaScript frameworks.
 
-![py-agui 3-pane demo](screenshots/three-pane-demo.png)
+![py-agui 3-pane demo](https://raw.githubusercontent.com/kaljuvee/py-agui/main/screenshots/three-pane-demo.png)
 
 ## Features
 
@@ -17,7 +17,7 @@
 - **AGUI Protocol** -- Full compatibility with pydantic-ai's AGUI protocol
 - **Theming** -- CSS custom properties for easy light/dark mode and custom themes
 
-![py-agui chat view](screenshots/three-pane-closed.png)
+![py-agui chat view](https://raw.githubusercontent.com/kaljuvee/py-agui/main/screenshots/three-pane-closed.png)
 
 ## Installation
 
