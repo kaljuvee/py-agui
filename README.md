@@ -148,6 +148,8 @@ py_agui/
 
 ## Credits
 
+Created by [Julian Kaljuvee](https://github.com/kaljuvee).
+
 Built with [FastHTML](https://fasthtml.dev), [pydantic-ai](https://ai.pydantic.dev), and the [AG-UI protocol](https://github.com/ag-ui-protocol/ag-ui).
 
 Inspired by [ft-ag-ui](https://github.com/Novia-RDI-Seafaring/ft-ag-ui) by [Christoffer Bjorkskog](https://www.linkedin.com/in/christofferbjorkskog/).

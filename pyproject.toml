@@ -1,6 +1,6 @@
 [project]
 name = "py-agui"
-version = "0.1.2"
+version = "0.1.3"
 description = "Python Agentic UI - Real-time agentic chat interfaces with FastHTML, featuring 3-pane layout with settings, streaming chat, and thinking trace"
 readme = "README.md"
 license = "MIT"
