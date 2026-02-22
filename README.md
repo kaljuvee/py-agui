@@ -150,7 +150,7 @@ py_agui/
 
 Built with [FastHTML](https://fasthtml.dev), [pydantic-ai](https://ai.pydantic.dev), and the [AG-UI protocol](https://github.com/ag-ui-protocol/ag-ui).
 
-Forked from [ft-ag-ui](https://github.com/Novia-RDI-Seafaring/ft-ag-ui) by Christoffer Bjorkskog.
+Inspired by [ft-ag-ui](https://github.com/Novia-RDI-Seafaring/ft-ag-ui) by [Christoffer Bjorkskog](https://www.linkedin.com/in/christofferbjorkskog/).
 
 ## License
 
